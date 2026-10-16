@@ -62,16 +62,24 @@ Currency figures are currently displayed with a dollar sign. The calculator UI i
 
 ## Design assets
 
-The supplied UI mockups and brand images are stored in `assets/`. The numbered screenshots present in the project are `1.png`–`10.png`, `12.png`–`14.png`, plus `1_5.png` (the alternate EMI calculator mockup).
-
-| Asset | Description |
-| --- | --- |
-| `assets/finora_banner.png` | Brand and UI overview banner (shown above) |
-| `assets/1.png` – `assets/10.png` | Calculator and finance hub mockups |
-| `assets/1_5.png` | Alternate EMI calculator mockup |
-| `assets/12.png` – `assets/14.png` | Additional app and splash mockups |
-
-The numbered mockup images are design references; the Flutter app does not need to load them at runtime.
+<p>
+  <img src="assets/1.png" width="120" alt="Design mockup 1" />
+  <img src="assets/2.png" width="120" alt="Design mockup 2" />
+  <img src="assets/3.png" width="120" alt="Design mockup 3" />
+  <img src="assets/4.png" width="120" alt="Design mockup 4" />
+  <img src="assets/5.png" width="120" alt="Design mockup 5" />
+  <img src="assets/6.png" width="120" alt="Design mockup 6" />
+  <img src="assets/7.png" width="120" alt="Design mockup 7" />
+</p>
+<p>
+  <img src="assets/8.png" width="120" alt="Design mockup 8" />
+  <img src="assets/9.png" width="120" alt="Design mockup 9" />
+  <img src="assets/10.png" width="120" alt="Design mockup 10" />
+  <img src="assets/1_5.png" width="120" alt="Alternate EMI calculator mockup" />
+  <img src="assets/12.png" width="120" alt="Design mockup 12" />
+  <img src="assets/13.png" width="120" alt="Design mockup 13" />
+  <img src="assets/14.png" width="120" alt="Design mockup 14" />
+</p>
 
 ## Getting started
 
